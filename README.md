@@ -5,7 +5,7 @@ The Analysis includes data from FY19 to FY23 and delves deeper to make predictio
 The dataset used, has been collected from numerous sources including Financial Reports and several Finance report sites.
 This is intended only for project purpose.
 
-Algorithm Used: **Linear Regression**<br>
+Algorithm Used: **Linear Regression Prediction Algo**<br>
 
 Tools used:<br>
 
