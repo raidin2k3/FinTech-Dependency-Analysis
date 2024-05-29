@@ -7,11 +7,11 @@ This is intended only for project purpose.
 
 Algorithm Used: **Linear Regression**
 
-Tools used:
--> Python
--> Pytorch
--> Pandas
--> Numpy
--> Matplotlib
--> Scikit-Learn
+Tools used:<br>
+-> Python<br>
+-> Pytorch<br>
+-> Pandas<br>
+-> Numpy<br>
+-> Matplotlib<br>
+-> Scikit-Learn<br>
 -> Jupyter Notebook
